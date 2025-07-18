@@ -129,6 +129,7 @@ payment-dashboard/
   <img src="https://github.com/user-attachments/assets/4c8facae-9b7f-4221-8b92-941e0534d2b3" alt="Login Screen" width="250" style="margin: 10px;"/>
   <img src="https://github.com/user-attachments/assets/f0827189-a550-4abb-b5e4-a52039a7784a" alt="Dashboard Overview" width="250" style="margin: 10px;"/>
   <img src="https://github.com/user-attachments/assets/d50fc703-37ab-4c4e-bcde-54054b3f7972" alt="Dashboard Stats" width="250" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/e01a3f2f-34b9-4af0-a519-b857cb3c1de7" alt="Admin Dashboard" width="250" style="margin: 10px;"/>
 </p>
 
 ### Transactions & Payments
@@ -136,12 +137,6 @@ payment-dashboard/
   <img src="https://github.com/user-attachments/assets/1846b101-0d77-45a5-8886-c1210011f0fb" alt="Transactions List" width="250" style="margin: 10px;"/>
   <img src="https://github.com/user-attachments/assets/3b72df34-2fe2-4224-8dfc-1d84ca0a5881" alt="Payment Details" width="250" style="margin: 10px;"/>
   <img src="https://github.com/user-attachments/assets/153587b7-bacb-46a3-aa8a-9b218baa6044" alt="Add Payment" width="250" style="margin: 10px;"/>
-</p>
-
-### Admin Panel
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e01a3f2f-34b9-4af0-a519-b857cb3c1de7" alt="Admin Dashboard" width="250" style="margin: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/372ed8ee-3d22-48cb-9409-7adc26af6c2e" alt="Admin Analytics" width="250" style="margin: 10px;"/>
 </p>
 
 ---
