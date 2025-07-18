@@ -1,6 +1,6 @@
 # Payment Dashboard App
 
-A mobile-first full-stack app for managing and visualizing payments. Built with React Native and NestJS.
+A **full-stack, mobile-first payment management dashboard** built using **React Native (Expo)** and **NestJS**, designed to simulate and visualize payment data securely with clean, responsive UI and real-time capabilities.
 
 ---
 
