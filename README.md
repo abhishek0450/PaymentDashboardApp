@@ -126,10 +126,10 @@ payment-dashboard/
 
 ### Authentication & Dashboard
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4c8facae-9b7f-4221-8b92-941e0534d2b3" alt="Login Screen" width="250" style="margin: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/f0827189-a550-4abb-b5e4-a52039a7784a" alt="Dashboard Overview" width="250" style="margin: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/d50fc703-37ab-4c4e-bcde-54054b3f7972" alt="Dashboard Stats" width="250" style="margin: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/e01a3f2f-34b9-4af0-a519-b857cb3c1de7" alt="Admin Dashboard" width="250" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/4c8facae-9b7f-4221-8b92-941e0534d2b3" alt="Login Screen" width="250" style="margin: 5px;"/>
+  <img src="https://github.com/user-attachments/assets/f0827189-a550-4abb-b5e4-a52039a7784a" alt="Dashboard Overview" width="250" style="margin: 5px;"/>
+  <img src="https://github.com/user-attachments/assets/d50fc703-37ab-4c4e-bcde-54054b3f7972" alt="Dashboard Stats" width="250" style="margin: 5px;"/>
+  <img src="https://github.com/user-attachments/assets/e01a3f2f-34b9-4af0-a519-b857cb3c1de7" alt="Admin Dashboard" width="200" style="margin: 5px;"/>
 </p>
 
 ### Transactions & Payments
